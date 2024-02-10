@@ -1,1 +1,1 @@
-alfa,beta,gamma
+alfa,alfa,beta,gamma
